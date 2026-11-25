@@ -490,7 +490,7 @@ db.insertInto('t')
 ## Extending using inheritance
 
 You usually don't want to do this because of the complexity of the types and TypeScript's limitations
-when it comes to inheritence and return types.
+when it comes to inheritance and return types.
 You'll quickly run into problems.
 Even though Kysely uses classes, it is not designed from the OOP point of view.
 Classes are used because they are supported natively by TypeScript. They provide private
