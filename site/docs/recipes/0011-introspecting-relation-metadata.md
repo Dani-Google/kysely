@@ -4,7 +4,7 @@ description: 'Inspect database tables and views at runtime using the Kysely intr
 
 # Introspecting relation metadata
 
-Extracting metadata about tables and views from your database schema in runtime is possible using the methods in the `instrospection` property of a `Kysely` instance.
+Extracting metadata about tables and views from your database schema in runtime is possible using the methods in the `introspection` property of a `Kysely` instance.
 
 The example below uses a PostgreSQL connection to print information about all tables and views found in the database schema:
 
