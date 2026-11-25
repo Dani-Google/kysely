@@ -19,7 +19,7 @@ Kysely offers tools for both of these cases.
 
 ## 1
 
-When you have an enumarable set of schemas, you can add them to your database interface
+When you have an enumerable set of schemas, you can add them to your database interface
 like this:
 
 ```ts twoslash
